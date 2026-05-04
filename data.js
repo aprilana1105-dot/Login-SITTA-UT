@@ -40,6 +40,13 @@ var dataPengguna = [
     role: "Administrator",
     lokasi: "Pusat"
   }
+  {
+    id: 6,
+    nama: "Leon Pradipta",
+    email: "leonpra@ut.ac.id",
+    password: "nanacantik",
+    role: "Fakultas",
+    lokasi: "FISIP"
 ];
 
 var dataBahanAjar = [
