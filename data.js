@@ -47,6 +47,7 @@ var dataPengguna = [
     password: "nanacantik",
     role: "Fakultas",
     lokasi: "FISIP"
+}
 ];
 
 var dataBahanAjar = [
